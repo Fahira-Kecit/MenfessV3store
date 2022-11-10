@@ -57,13 +57,13 @@ return`──「 *MENU DONATE* 」──
 
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
-*Payment Ovo*
-Number: 085789004732
-A/N: LEXXY STORE
+*Payment Gopay*
+Number: 085380779466
+A/N: ANDRIAN
 
 *Payment Dana*
-Number: 085789004732
-A/N: LEXXY OFFICIAL
+Number: 085380779466
+A/N: ANDRIAN
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -74,17 +74,16 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
- • *Umur:* 18 tahun
+ • *Nama:* ANDRIAN
+ • *Umur:* 10 tahun
  • *Hoby:* Turu/Game
  • *Askot:* Palembang
- • *Konten:* Creator
+ • *Kerjaan:* Beban Ortu
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+ • *Whatsapp:* 085380779466
+ • *Youtube:* 085380779466
  `
 }
